@@ -9,9 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2022-05-21
 ### Added
 - add method for symbol-encrypt-message to ```pure_pynacl/tweetnacl.py```
-- Version navigation.
-- Links to latest released version in previous versions.
-- "Why keep a changelog?" section.
 
 ### Removed
 - removed methods not used for symbol-encrypt message from ```pure_pynacl/__init.py```
